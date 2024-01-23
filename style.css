@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.HeaderClass{
+    color: rgb(5, 141, 245, 0.818);
+}
+.AboutMeClass{
+    color: rgba(4, 180, 4, 0.818);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ASCIIClass{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(238, 5, 5, 0.818);
+}
+#CatID{
+    font-size: smaller;
+}
+.MoreColorfulAnimalsClass{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgba(255, 167, 5);
+}
+#DogID{
+    font-size: smaller;
+}
+#BugID{
+    font-size: smaller;
+    color: blueviolet;
+}
+#VariousHTMLTagsID{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: lightseagreen;
+}
+#LinkID{
+    color: red;
+}
+.SomeTagsClass{
+    line-height: 150%;
+    
+}
+#BlockquoteID1{
+    margin-left: 35px;
+}
+footer{
+    font-size: small;
+    margin-top: 10px;
+}
